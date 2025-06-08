@@ -116,6 +116,12 @@ ollama list
 - **gemini-2.0-flash** (Gemini): Fastest, requires internet
 - **gemini-2.0-pro** (Gemini): Highest quality, requires internet
 
+## 📸 Screenshot
+
+![Cover Letter Generator Interface](public/AI%20Cover%20Letter%20Generator.jpeg)
+
+_The clean, intuitive interface makes generating professional cover letters quick and easy._
+
 ## 🎉 You're Ready!
 
 Your AI Cover Letter Generator is now set up and ready to create personalized, professional cover letters. Happy job hunting! 🎯
